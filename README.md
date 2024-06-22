@@ -1,27 +1,6 @@
-![Unity2020 Badge](https://img.shields.io/badge/Unity-v2020-orange)
-![C# Badge](https://img.shields.io/badge/C-%23-blue)
-![License](https://img.shields.io/badge/License-Baponkar%20License-red)
-![IssueBadge](https://img.shields.io/github/issues/baponkar/Third-Person-Shooter-With-Shooter-AI)
-![ForksBadge](https://img.shields.io/github/forks/baponkar/Third-Person-Shooter-With-Shooter-AI)
-![StarsBadge](https://img.shields.io/github/stars/baponkar/Third-Person-Shooter-With-Shooter-AI)
-![Donation Badge](https://img.shields.io/github/sponsors/baponkar)
-![Copyright Badge](https://img.shields.io/badge/Copyright-baponkar-orange)
-
-
-
 ![ScreenShot1](Recordings/banner.png)
 # Third Person Shooter Player With Shooter AI(NPC)
-## Description : A Third Person Shooting Player with three weapon and a NPC shooter.This unity packages have some dependency. You need to download and imported inside of this unity project's Asset folder.Where only one have external asset a mixamo character and animations.You are requested to download and put all the dependency in your project otherwise it may not work properly.See  Demo 
-1. [1.0.0](https://www.youtube.com/watch?v=D0Iv-NGmIcg)
-
-2. [1.1.0](https://www.youtube.com/watch?v=nowBHY_60OA)
-
-3. [1.1.1](https://www.youtube.com/watch?v=M79GJ6gpJvA&t=23s)
-
-4. [1.2.2](https://youtu.be/dSjZmPRB1yg)
-
-## Play [Demo Game](https://baponkar.github.io/Demo-Game-Play/)
-
+## Description : A Third Person Shooting Player with three weapon and a NPC shooter.This unity packages have some dependency. You need to download and imported inside of this unity project's Asset folder.Where only one have external asset a mixamo character and animations.You are requested to download and put all the dependency in your project otherwise it may not work properly.
 
 ## Contents :
 - [x] Third Person Shooter Player(Locomotion with Jump,shoot,reload,weapon change)
@@ -35,8 +14,6 @@
 - [x] Four Demo Scene
 - [x] Weapon Pickup for player and AI
 - [x] Demo Scene
-
-See project [YT Demo](https://www.youtube.com/watch?v=D0Iv-NGmIcg) Video in  YouTube.
 
 See Using project [Doc] Video in YouTube.
 ## Screenshots
@@ -79,16 +56,10 @@ See Using project [Doc] Video in YouTube.
 ## Info
 1. Project Name - Third Person Shooter Player
 2. Used Unity Version to build this project - 2020.15f2
-3. Developer Name : [baponkar](https://github.com/baponkar)
-4. Social Site : ![twittwr badge](https://img.shields.io/twitter/follow/kar_bapon?style=social)
-5. Contact for Support : gamingjam60@gmail.com
-6. Build Date : 07-07-2022
-7. ~~Last  Updated : 09-10-2022~~
-
-
----
-[LICENSE](LICENSE.md)
-
+3. Developer Name : Algo Sanket
+4. Social Site : @sankets57590607
+5. Contact for Support : srivastavasanket95@gmail.com
+6. Build Date : 07-07-2023
 
 ## Doc
 
